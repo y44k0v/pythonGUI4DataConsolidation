@@ -7,10 +7,10 @@ The present GUI helps store clerks to reconciliate data discrepancies between th
 
 The GUI was designed to be used along a barcode scanner for faster retrieval of information. The GUI comprises 4 tables:
 
-	*POS database dump
-	*Website product information
-	*Preview of target item
-	*Saved merged information
+	*	POS database dump
+	*	Website product information
+	*	Preview of target item
+	*	Saved merged information
 
 Search POS is enabled for SKU’s (barcode) and description in up to 3 fields. Website products can be searched in based on description also in up to 3 fields.
 
