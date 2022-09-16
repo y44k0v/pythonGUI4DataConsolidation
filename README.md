@@ -28,4 +28,4 @@ Sample datasets of common beverages are included for testing purposes.
 
 ### example
 Clone repository, launch app.py, search for “pepsi” on the POS and WEB search, click on both Pepsi 1.5L (Notice different naming convention and SKU codes), click gather data, click save, click save sks2sku to generate the csv file.
-![image](https://user-images.githubusercontent.com/17897299/190533651-b4eef7e1-3f8f-49cd-bb74-25d30b0db0ee.png)
+![image](gui.png)
